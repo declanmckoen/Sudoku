@@ -21,9 +21,18 @@ To run this project, you need to have Python and PyGame installed. You can insta
 ```bash
 pip install pygame
 ```
-or if that doesn't work
+Or if that doesn't work:
 ```bash
 pip3 install pygame
+```
+Clone the repository:
+```bash
+git clone https://github.com/declanmckoen/Sudoku.git
+cd Sudoku
+```
+Compile and run the files:
+```bash
+python3 sudoku.py
 ```
 
 ## Contributions
